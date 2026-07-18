@@ -1,0 +1,1 @@
+Checkmates are not being detected by the recursion tests, but are being detected on individual FEN strings and positions.
